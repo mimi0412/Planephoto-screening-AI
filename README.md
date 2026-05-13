@@ -34,7 +34,7 @@ const appId = typeof __app_id !== 'undefined' ? __app_id : 'jetphotos-ai-v2';
 // 【 重要：請在此處填入你的 UID 】
 // 你可以在預覽網頁的右上角看到「UID: xxxxxx」
 // ==========================================
-const ADMIN_UID = "YOUR_OWN_UID_HERE"; 
+const ADMIN_UID = "6645a96"; 
 
 const App = () => {
   const [view, setView] = useState('public');
